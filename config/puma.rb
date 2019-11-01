@@ -13,7 +13,7 @@ workers 2
 threads 4,8
 
 port 8888
-worker_timeout 5
+worker_timeout 10
 environment puma_env
 daemonize true
 
