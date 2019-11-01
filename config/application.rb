@@ -1,0 +1,1 @@
+Geminabox.data = '/data/gem/mirror'
